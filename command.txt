@@ -4,3 +4,5 @@ remote - Refers to the remote name
 branch - Referes to the branch name
 
 e.g. git pull origin main
+
+git fetch <remote> <branch>
